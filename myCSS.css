@@ -46,10 +46,10 @@ body {
 }
 body {
      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-     background-color: #FFFFFF;
+     background-color: #000000;
      margin: 0;
      padding: 0;
-     color: #000;
+     color: #FFFFFF;
 }
 
 a:link {
