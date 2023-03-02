@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #000000;
+	background: #777777;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -53,7 +53,7 @@ body {
 }
 
 a:link {
-     color: #FFFFFF;
+     color: #777777;
 }
 a:visited {
      color: #000000;
